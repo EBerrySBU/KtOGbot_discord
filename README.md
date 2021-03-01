@@ -6,6 +6,8 @@ The commands are designed to make this game easy to play on mobile and desktop D
 
 The command symbol is a period, since it's on the main mobile keyboard layout. By using mentions to refer to players, you can rely on autofill. It also means that you can look away from the game, and you'll be notified whenever something important happens.
 
+All the important values, like starting hit points and the number of times you can cast spells, are defined at the top of the bot file. You're welcome to adjust these values on your own bot to tweak the difficulty or average length of a game. 
+
 ---
 
 ## Playing with KtOGbot

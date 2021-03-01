@@ -24,7 +24,7 @@ Metacommands are for logistics. These are used for tracking player status and jo
 |.start| | Start a game. All the players in the waiting room will be added to the game, and the first player's turn will begin. |
 |.howto| | Shows a brief explanation of the game and a link to the KtOG website.|
 |.fighters | .f | Prints a list of all the players who have joined the game. Once the game has started, this list is in order of initiative, so you can tell whose turn comes next.|
-|.status | .s | You can use this command two ways. You can just type the command, and it will print out important information about your player status, like your current hit points, the number of times you can cast each spell, etc. Or, you can type the command followed by a mention (@examplename) to get the same information about them. |
+|.status | .s | You can use this command two ways. You can just type the command, and it will print out important information about your player status, like your current hit points, the number of times you can cast each spell, etc. Or, you can type the command followed by a mention (@examplename) to get the same information about another player. |
 |.turn | .t | This command mentions the player whose turn it currently is. | 
     
 

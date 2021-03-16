@@ -8,7 +8,11 @@ The command symbol is a period, since it's on the main mobile keyboard layout. B
 
 All the important values, like starting hit points and the number of times you can cast spells, are defined at the top of the bot file. You're welcome to adjust these values on your own bot to tweak the difficulty or average length of a game. In this introduction the default values are used.
 
-To change the "flavor" of the game's text, just replace the dialog_pools.py file or its contents. There's a template included with the source code.
+To change the "flavor" of the game's text, just replace the `dialog_pools.py` file or its contents. There's a template included with the source code.
+
+---
+# Setting up KtOGbot
+Setting up KtoGbot is a two-part process. First, make sure you have a machine to run the bot on. Make sure you have Python3.x installed. Then you should be able to use `pip3 install discord.py` while running python in the terminal to install the discord library. Next, follow the instructions in [this tutorial](https://www.writebots.com/discord-bot-token/) to get your token and add the bot to your server. KtOGbot only needs permissions to read and send messages. When you have your token, add it where "YOUR TOKEN HERE" is written at the bottom of `main.py`. Then you can run `main.py`.
 
 ---
 
